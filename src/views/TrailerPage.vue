@@ -41,7 +41,7 @@ const cinematicSentences: { text: string; image: string | null }[] = [
   },
 ];
 
-const SENTENCE_DISPLAY_DURATION = 4000;
+const SENTENCE_DISPLAY_DURATION = 5000;
 const FADE_DURATION = 1000;
 
 // ==========================================
